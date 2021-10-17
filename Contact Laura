@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Allison&family=Libre+Franklin:wght@200&family=Open+Sans+Condensed:wght@300&display=swap" rel="stylesheet">
+    <link href='./photo style.css' type= 'text/css' rel='stylesheet'>
+    <link href="https://fonts.googleapis.com/css2?family=Kaisei+Tokumin:wght@400;500&display=swap" rel="stylesheet">
+    <title>Contact Laura</title>
+</head>
+<body>
+
+    <div class='nav'>
+        <ul>
+            <li><a href='./photo site.html'>Home</li></a>
+            <li><a href='./photo about.html'>About</li></a>
+            <li><a href='./photo info.html'>Information</li></a>
+            <li><a href='./photo gallery.html'>Gallery</li></a>
+            <li><a href='./photo contact.html'>Contact</li></a>
+        </ul>
+    </div>
+
+    <div class='container'>
+        <form action='action_page.php'>
+            <label for='fname'>First Name</label>
+            <input type='text' id='fname' name='firstname' placeholder="Your first name..." required>
+
+            <label for='lname'>Last Name</label>
+            <input type='text' id='lname' name='lastname' placeholder="Your last name..." required>
+
+            <label for='country'>Country</label>
+            <input type='text' id='country' name='country' placeholder="What country are you from?" required>
+
+            <label for="description">Description</label>
+            <textarea type='text' id='description' name='description' placeholder="Describe what you need!" required></textarea>
+
+            <input type='submit' value='Submit'>
+
+        </form>
+    </div>
+
+    <div class='contact'>
+        <h3>Contact</h3>
+        <p>6 Fisher Drive, Bildaberg, FL 69420
+            <br>
+            777-777-1234
+        </p>
+    </div>
+
+
+</body>
+</html>
