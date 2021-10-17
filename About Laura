@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Allison&family=Libre+Franklin:wght@200&family=Open+Sans+Condensed:wght@300&display=swap" rel="stylesheet">
+    <link href='./photo style.css' type= 'text/css' rel='stylesheet'>
+    <link href="https://fonts.googleapis.com/css2?family=Kaisei+Tokumin:wght@400;500&display=swap" rel="stylesheet">
+    <title>About Laura</title>
+</head>
+<body>
+    <div class='nav'>
+        <ul>
+            <li><a href='./photo site.html'>Home</li></a>
+            <li><a href='./photo about.html'>About</li></a>
+            <li><a href='./photo info.html'>Information</li></a>
+            <li><a href='./photo gallery.html'>Gallery</li></a>
+            <li><a href='./photo contact.html'>Contact</li></a>
+        </ul>
+    </div>
+
+    <h3 class='meet'>Laura Shorotto</h3>
+    <br>
+
+    <div class='box'>   
+    <p id='abouttext'>Laura has been taking photos her entire life. She thoroughly enjoys the photoshoot process and loves recording your special moments. 
+        She will go above and beyond for anyone and everyone. She will care for you and your prized moments as if she is your mother.
+        She is all about the vibes and loves everyone she meets. She will do everything in her power to make your photo shoot the best possible experience.
+        No matter what your request is she will make sure it gets done with the highest possible quality. 
+        Trust her with your most special moments and she will not dissappoint.
+        Reach out through the form on the "Contact" page to get a quote!</p>
+
+    </div>
+
+    <img src='auntie small 2.jpg' class='auntieimg'>
+</body>
+</html>
