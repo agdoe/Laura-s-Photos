@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Allison&family=Libre+Franklin:wght@200&family=Open+Sans+Condensed:wght@300&display=swap" rel="stylesheet">
+    <link href='./photo style.css' type= 'text/css' rel='stylesheet'>
+    <title>Document</title>
+</head>
+<body>
+
+    <div class='nav'>
+        <ul>
+            <li><a href='./photo site.html'>Home</li></a>
+            <li><a href='./photo about.html'>About</li></a>
+            <li><a href='./photo info.html'>Information</li></a>
+            <li><a href='./photo gallery.html'>Gallery</li></a>
+            <li><a href='./photo contact.html'>Contact</li></a>
+        </ul>
+    </div>
+
+
+    <div>
+        <img src='nature med.jpg' height=1080 width=1920>
+    </div>
+</body>
+</html>
