@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Allison&family=Libre+Franklin:wght@200&family=Open+Sans+Condensed:wght@300&display=swap" rel="stylesheet">
+    <link href='./photo style.css' type= 'text/css' rel='stylesheet'>
+    <link href="https://fonts.googleapis.com/css2?family=Kaisei+Tokumin:wght@400;500&display=swap" rel="stylesheet">
+    <title>Pricing Information</title>
+</head>
+<body>
+
+    <div class='nav'>
+        <ul>
+            <li><a href='./photo site.html'>Home</li></a>
+            <li><a href='./photo about.html'>About</li></a>
+            <li><a href='./photo info.html'>Information</li></a>
+            <li><a href='./photo gallery.html'>Gallery</li></a>
+            <li><a href='./photo contact.html'>Contact</li></a>
+        </ul>
+    </div>
+
+
+    <H2>Information</H2>
+    <h3>Pricing</h3>
+    <p>Weddings start at $750</p>
+    <p>Family portraits start at $500</p>
+    <p>Travel shoots start at $2,000</p>
+    <p>Special requests will vary in price!</p>
+</body>
+</html>
